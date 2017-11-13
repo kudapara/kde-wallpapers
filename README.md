@@ -5,7 +5,8 @@
 Follow [@kudapara](https://twitter.com/kudapara) on twitter for updates on kde-wallpapers
 
 ## Download Wallpapers
-1. <a href="https://raw.githubusercontent.com/kudapara/kde-wallpapers/master/png/kde_experience_freedom_by_kudapara.png" target="_blank">experience_freedom_by_kudapara</a>
+1. <a href="https://raw.githubusercontent.com/kudapara/kde-wallpapers/master/png/kde_experience_freedom_by_kudapara.png" target="_blank">kde_experience_freedom_by_kudapara</a>
+1. <a href="https://raw.githubusercontent.com/kudapara/kde-wallpapers/master/png/kde_galaxy_by_kudapara.png" target="_blank">kde_galaxy_by_kudapara</a>
 ## Contributing
 
 [Fork](https://github.com/kudapara/kde-wallpapers#fork-destination-box) the repository and open your terminal and type the following
